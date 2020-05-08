@@ -1,0 +1,22 @@
+html {
+  background-color: #bafff6;
+}
+.image {
+  margin-left : 400px
+}
+.description {
+  color: #8fa9bd;
+  font-size: 50px;
+  margin-top: 30px;
+  margin-bottom: 30px
+}
+.wikilink {
+  font-size: 30px
+}
+
+.heading {
+  font-size: 100px;
+  color: grey;
+  margin-top: 10px;
+  margin-bottom: 80px
+}
